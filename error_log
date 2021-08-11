@@ -1,8 +1,0 @@
-[09-Aug-2021 11:28:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\performance tracker\studentmyper.php:35
-Stack trace:
-#0 {main}
-  thrown in C:\xampp\htdocs\performance tracker\studentmyper.php on line 35
-[09-Aug-2021 11:29:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\performance tracker\2019.php:35
-Stack trace:
-#0 {main}
-  thrown in C:\xampp\htdocs\performance tracker\2019.php on line 35
